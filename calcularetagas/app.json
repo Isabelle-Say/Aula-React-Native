@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "calcularetagas",
+    "slug": "calcularetagas",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
